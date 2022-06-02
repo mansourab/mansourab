@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mansour</h1>
 <h3 align="center">A passionate web developer from Niger</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourab&label=Profile%20views&color=0e75b6&style=flat" alt="mansourab" /> </p>
+<img align="center" src="https://www.spaceo.ca/wp-content/uploads/2021/05/what-is-full-stack-development.jpg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansourab" alt="mansourab" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mansourab&label=Profile%20views&color=0e75b6&style=flat" alt="mansourab" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansourab" alt="mansourab" /></a> </p>
 
 - 💬 Ask me about **Laravel, Symfony, PHP, React, Node.js**
 
