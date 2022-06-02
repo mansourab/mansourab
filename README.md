@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansour</h1>
-<h3 align="center">A passionate web developer from Niger</h3>
+<h3 align="center">A web developer from Niger</h3>
 
-<p align="center"<img src="https://www.spaceo.ca/wp-content/uploads/2021/05/what-is-full-stack-development.jpg" width="800" height="400"/></p>
+<p align="center"><img src="https://www.spaceo.ca/wp-content/uploads/2021/05/what-is-full-stack-development.jpg" width="800" height="400"/></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mansourab&label=Profile%20views&color=0e75b6&style=flat" alt="mansourab" /> </p>
 
